@@ -7,6 +7,12 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/tourismjobsearchingtogether/](https://www.linkedin.com/in/tourismjobsearchingtogether/)
 
+<h3 align="left">What I'm Currently Focusing On:</h3>
+<ul>
+    <li>📊 Improving data visualization using Tableau and Power BI.</li>
+    <li>📈 Building machine learning models with Python and R.</li>
+    <li>🛠 Learning advanced MySQL for real-world business queries.</li>
+</ul>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
