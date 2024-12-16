@@ -21,11 +21,11 @@
 </p>
 
 
-<div style="clear: both; display: block; width: 100%;">
+<p>
 <h3 align="left">Projects I've worked on:</h3>
 <ul>
 <li>📊 <a href="https://github.com/Daramluv/Google_colab/blob/main/Housing_Prices_Prediction_Model.ipynb" target="_blank">House Price Prediction ModelEDA</a> - Exploratory data analysis of heart failure dataset using Python and Pandas.</li>
     <li>📈 <a href="https://github.com/Daramluv/Google_colab/blob/main/Customer_Churn_Prediction.ipynb" target="_blank">Customer Churn Prediction</a> - Built a decision tree model to predict customer satisfaction.</li>
     <li>📊 <a href="https://github.com/Daramluv/Google_colab/blob/main/Optimizing_Product_Mix_Using_Gurobi_Optimization.ipynb" target="_blank">Product Mix usgin Gurobi</a> - Analyzed movie rental trends using MySQL queries.</li>
 </ul>
-</div>
+</p>
