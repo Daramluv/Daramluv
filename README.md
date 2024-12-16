@@ -17,8 +17,11 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
     </a> 
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daramluv&show_icons=true&theme=dark&locale=en&layout=compact" alt="daramluv" /></p>
-<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daramluv&show_icons=true&theme=dark&locale=en&layout=compact" alt="daramluv" />
+</p>
+
+<be>
+
 <h3 align="left">Projects I've worked on:</h3>
 <ul>
 <li>📊 <a href="https://github.com/Daramluv/Google_colab/blob/main/Housing_Prices_Prediction_Model.ipynb" target="_blank">House Price Prediction ModelEDA</a> - Exploratory data analysis of heart failure dataset using Python and Pandas.</li>
