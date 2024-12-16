@@ -20,10 +20,11 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daramluv&show_icons=true&theme=dark&locale=en&layout=compact" alt="daramluv" />
 </p>
 
-<br>
+<div style="margin-top: 20px;">
 
 <h3 align="left">Projects I've worked on:</h3>
 <ul>
 <li>📊 <a href="https://github.com/Daramluv/Google_colab/blob/main/Housing_Prices_Prediction_Model.ipynb" target="_blank">House Price Prediction ModelEDA</a> - Exploratory data analysis of heart failure dataset using Python and Pandas.</li>
     <li>📈 <a href="https://github.com/Daramluv/Google_colab/blob/main/Customer_Churn_Prediction.ipynb" target="_blank">Customer Churn Prediction</a> - Built a decision tree model to predict customer satisfaction.</li>
     <li>📊 <a href="https://github.com/Daramluv/Google_colab/blob/main/Optimizing_Product_Mix_Using_Gurobi_Optimization.ipynb" target="_blank">Product Mix usgin Gurobi</a> - Analyzed movie rental trends using MySQL queries.</li>
+</div>
